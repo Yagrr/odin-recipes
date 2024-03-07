@@ -5,5 +5,5 @@ Plan:
 
 - ✅ Initial structure
 - ✅ Recipe page
-- ❌ Recipe page content
-- ❌ Add more recipes
+- ✅ Recipe page content
+- ✅ Add more recipes
