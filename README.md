@@ -7,3 +7,7 @@ Plan:
 - ✅ Recipe page
 - ✅ Recipe page content
 - ✅ Add more recipes
+
+To do:
+- ❌ Add CSS styling
+- ❌ Add JS animation and audio
