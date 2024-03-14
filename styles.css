@@ -1,0 +1,35 @@
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+body {
+    text-align: center;
+}
+
+.emblem {
+    height:400px;
+    width: auto;
+    padding:20px;
+}
+
+.recipes {
+    display: flex;
+    gap: 15px;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    width: 250px;
+    background-color: #a0722c;
+    color: white;
+    padding: 15px 15px;
+    font-family: Helvetica,sans-serif;
+    text-align: center;
+    text-decoration: none;
+
+}
+
