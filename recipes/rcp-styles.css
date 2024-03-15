@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: #786178;
+    background-color: #614261;
 }
 
 .text-wrapper {
@@ -20,12 +20,33 @@ body {
     margin:auto;
 }
 
+.text-wrapper-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-wrapper-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    background-color:#614261;
+    border-radius: 25px;
+    padding: 10px;
+}
+
 h1 {
     font-family: 'Pizza-Tower';
     text-align: center;
     font-size: 50px;
     color: white;
-    background-color: #614261;
+    background-color: #967BB6;
     padding: 25px;
 }
 
@@ -45,4 +66,16 @@ img {
 .sub-ingredients {
     display: table;
     margin: 0 auto;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
 }
