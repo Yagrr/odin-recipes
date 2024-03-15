@@ -1,6 +1,14 @@
+
+@font-face {
+    font-family: 'Pizza-Tower';
+    src: url('fonts/PizzaTower.eot');
+    src: url('fonts/PizzaTower.eot?#iefix') format('embedded-opentype'),
+         url('fonts/PizzaTower.woff') format('woff'),
+         url('fonts/PizzaTower.ttf') format('truetype'),
+}
+
 h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bold;
+    font-family:'Pizza-Tower';
     font-size: 35px;
 }
 
