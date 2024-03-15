@@ -16,11 +16,11 @@ h1 {
 
 body {
     text-align: center;
-    background-color: #786178;
+    background-color: #614261;
 }
 
 h1{
-    background-color: #614261;
+    background-color: #967BB6;
     color: white;
     padding: 15px;
     margin-bottom: 0;
@@ -37,7 +37,7 @@ h1 a:visited {
 }
 
 h1 a:hover {
-    color:#959595;
+    color:#D1D1D1;
 }
 
 
