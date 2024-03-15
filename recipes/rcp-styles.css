@@ -4,19 +4,21 @@
      }
 
 body {
-    background-color: #d1aa70;
+    background-color: #786178;
 }
 
 .text-wrapper {
-    background-color: #a0722c;
+    background-color: #967BB6;
     padding: 5px 20px;
+    max-width: 600px;
+    margin:auto;
 }
 
 h1 {
     text-align: center;
     font-size: 50px;
     color: white;
-    background-color: #a51c12;
+    background-color: #614261;
     padding: 25px;
 }
 
@@ -24,8 +26,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-    max-height: 500px;
+    width: auto;
+    max-height: 300px;
 }
 
 .wrap-sub-ingredients {

@@ -4,16 +4,24 @@ h1 {
     font-size: 35px;
 }
 
+
 body {
     text-align: center;
-    background-color: #d1aa70
+    background-color: #786178;
+}
+
+h1 {
+    background-color: #614261;
+    color: white;
+    padding: 15px;
+    margin-bottom: 0;
+    font-size: 50px;
 }
 
 .emblem {
     height:400px;
     width: auto;
     padding:20px;
-    border: 20px;
     border-color: white; 
 }
 
@@ -27,9 +35,10 @@ body {
 
 .button {
     width: 250px;
-    background-color: #a0722c;
+    background-color: #967BB6;
     color: white;
     padding: 15px 15px;
+    font-size: 20px;
     font-weight: bold;
     font-family: Helvetica,sans-serif;
     text-align: center;
