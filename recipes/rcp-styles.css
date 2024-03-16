@@ -41,6 +41,10 @@ body {
     padding: 10px;
 }
 
+.button:hover {
+    color:#D1D1D1;
+}
+
 h1 {
     font-family: 'Pizza-Tower';
     text-align: center;
